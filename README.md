@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi People!
+wassup
+I love C because thats the only language I know.
+Hvae to learn Java and C++.
